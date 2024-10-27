@@ -1,0 +1,5 @@
+alias intdown=~/Documents/Scripts/ifconfig_interfaces_down.sh
+alias changehostname=~/Documents/Scripts/changeHostname.sh
+alias changemac=~/Documents/Scripts/changemacaddrs.sh
+alias ip=ifconfig 
+printf "The terminal is yours..\n"
