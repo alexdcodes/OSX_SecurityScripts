@@ -1,6 +1,6 @@
-#MacOS X Outdated Operating System Security Scripts
+# MacOS X Outdated Operating System Security Scripts
 
-##Scripts created to add security features to old Mac OS X Computers
+## Scripts created to add security features to old Mac OS X Computers
 
 Any Macintosh OS but serves a purpose for Pre Sonoma releases
 
@@ -16,6 +16,11 @@ Yosemite 10.10
 Mountain Lion 10.8
 Lion 10.7
 
+# How to install: 
+
+ Copy folder to location you specify for example /bashscripts 
+ open .zshrc_configuration file, and change the folder path to match your placement 
+ replace .zshrc > with configuration file or add the file contents to your current ~/.zshrc file 
 
 Folder contains a mac address changer later added to Sonoma (under Security  Wifi Private or Rotating Mac Address), wanted to incorporate this feature in older versions. Interface changer to down interfaces that are not required. Change hostname to allow you to change the name of the computer quickly. 
 Check aliase in ZSHRC configs to add shortcuts to these scripts, or replace the configuration zshrc file with .zshrc.
